@@ -1,2 +1,0 @@
-# ITrustInGod
-I TRUST IN GOD SITE
