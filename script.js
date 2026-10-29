@@ -58,7 +58,6 @@ const PRODUTOS = [
       { src: "images/polo1.jpg", nome: "Preta" },
       { src: "images/polo2.jpg", nome: "Rosa" },
       { src: "images/polo3.jpg", nome: "Branca" },
-      { src: "images/polo4.jpg", nome: "Preta (2)" },
       { src: "images/polo5.jpg", nome: "Vermelha" },
     ],
     opcoes: [{ nome: "Único", detalhe: "", preco: 949 }],
